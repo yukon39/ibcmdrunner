@@ -1,5 +1,6 @@
-// BSLLS-off
-// BSLLS-off
+
+// BSLLS:LatinAndCyrillicSymbolInWord-off
+
 #Использовать logos
 #Использовать v8find
 #Использовать asserts
